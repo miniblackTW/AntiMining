@@ -7,7 +7,7 @@ Anti gold mining
  - 超過一分鐘未移動
 
 # 動作:
- - 讓玩家看相上方
+ - 讓玩家看向上方
  - 對玩家說 "§cStop mining golds while being idle!!!"
 
 # 權限:
