@@ -1,0 +1,8 @@
+name: AntiMining
+version: 1.0
+main: me.miniblacktw.antimining.Main
+description: Stop mining golds while being idle!!!
+permissions:
+  antimining.bypass:
+    description: bypass AntiMining
+    default: op
