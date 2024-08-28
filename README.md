@@ -1,0 +1,2 @@
+# AntiMining
+Anti gold mining
